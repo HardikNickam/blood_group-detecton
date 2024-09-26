@@ -40,8 +40,8 @@ The proposed system consists of several modules, including:
 
 ### Architecture / Framework / Block Diagram
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/HardikNickam/blood_group-detecton/blob/main/images/img1.jpg)?raw=true)
-![alt text]([[https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/HardikNickam/blood_group-detecton/blob/main/images/img1.jpg](https://github.com/HardikNickam/blood_group-detecton/blob/main/images/img2.jpg))?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/HardikNickam/blood_group-detecton/blob/main/images/img2.jpg?raw=true)
 
 
 ## Conclusion
