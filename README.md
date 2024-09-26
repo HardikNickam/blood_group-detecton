@@ -40,6 +40,9 @@ The proposed system consists of several modules, including:
 
 ### Architecture / Framework / Block Diagram
 
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/HardikNickam/blood_group-detecton/blob/main/images/img1.jpg)?raw=true)
+![alt text]([[https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/HardikNickam/blood_group-detecton/blob/main/images/img1.jpg](https://github.com/HardikNickam/blood_group-detecton/blob/main/images/img2.jpg))?raw=true)
+
 
 ## Conclusion
 The Blood Group Detection system demonstrates high accuracy and efficiency in identifying blood groups from sample images. By employing advanced image processing techniques, the system can enhance the safety and effectiveness of blood transfusions.
